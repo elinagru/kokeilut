@@ -3,3 +3,4 @@ age = int(input("Anna ikäsi: "))
 
 print("Tervehdys,", name, age, "vuotta.")
 
+käyt
